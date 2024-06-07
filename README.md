@@ -64,7 +64,7 @@ To use the Image Slider component:
   
 ## Example
 
-Here is an example of how to integrate the Tic-Tac-Toe WebComponent into your HTML file:
+Here is an example of how to integrate the Image Slider WebComponent into your HTML file:
 
 ```html
 <!DOCTYPE html>
